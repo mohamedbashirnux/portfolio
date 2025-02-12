@@ -6,13 +6,13 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-gray-600">
-              Hello! I'm a passionate Full Stack Developer with expertise in building
+              Hello! I&apos;m a passionate Full Stack Developer with expertise in building
               modern web applications. I love turning complex problems into simple,
               beautiful, and intuitive solutions.
             </p>
             <p className="text-lg text-gray-600">
               With several years of experience in web development, I specialize in
-              JavaScript, React, Node.js, and modern web technologies. I'm always
+              JavaScript, React, Node.js, and modern web technologies. I&apos;m always
               eager to learn new technologies and improve my skills.
             </p>
             <div className="flex flex-wrap gap-4">

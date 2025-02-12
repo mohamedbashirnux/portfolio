@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 grid md:grid-cols-2 gap-8 items-center">
         <div className="text-center md:text-left">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-            Hi, I'm <span className="text-blue-600">Mo bash</span>
+            Hi, I&apos;m <span className="text-blue-600">Mo bash</span>
           </h1>
           <h2 className="text-xl sm:text-2xl md:text-3xl text-gray-600 mb-8">
             Full Stack Developer
