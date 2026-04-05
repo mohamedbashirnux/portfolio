@@ -4,8 +4,6 @@ export interface Project {
   description: string;
   image: string;
   technologies: string[];
-  githubLink: string;
-  liveLink: string;
 }
 
 export interface Skill {

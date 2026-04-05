@@ -1,18 +1,23 @@
 const Skills = () => {
   const skills = [
-    { name: 'React', level: 75 },
-    { name: 'TypeScript', level: 85 },
-    { name: 'Php', level: 80 },
+    { name: 'React', level: 85 },
+    { name: 'React Native', level: 80 },
     { name: 'Next.js', level: 89 },
+    { name: 'TypeScript', level: 85 },
+    { name: 'PHP', level: 80 },
     { name: 'Tailwind CSS', level: 90 },
     { name: 'Firebase', level: 75 },
     { name: 'Flutter', level: 75 },
+    { name: 'MySQL', level: 80 },
   ]
 
   return (
     <section id="skills" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold text-center mb-12">Skills</h2>
+        <h2 className="text-3xl font-bold text-center mb-4">My Skills</h2>
+        <p className="text-center text-gray-600 mb-12 text-lg">
+          Technologies and frameworks I work with for web and mobile development
+        </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {skills.map((skill) => (
             <div
