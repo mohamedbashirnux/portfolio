@@ -17,7 +17,7 @@ const About = () => {
             </p>
             <div className="flex flex-wrap gap-4">
               <div className="flex items-center gap-2">
-                <span className="text-blue-600 font-semibold">3</span>
+                <span className="text-blue-600 font-semibold">2+</span>
                 <span className="text-gray-600">Years Experience</span>
               </div>
               <div className="flex items-center gap-2">
@@ -25,7 +25,7 @@ const About = () => {
                 <span className="text-gray-600">Projects Completed</span>
               </div>
               <div className="flex items-center gap-2">
-                <span className="text-blue-600 font-semibold">1</span>
+                <span className="text-blue-600 font-semibold">2</span>
                 <span className="text-gray-600">Happy Clients</span>
               </div>
             </div>
